@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "start:dev": "NODE_ENV='development' node server.js",
+    "start:dev": "node server.js",
     "build": "next build && next export",
     "start": "next start"
   },
